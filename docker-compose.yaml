@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  spring-boot-hello-world:
+    build: 
+      context: ./
+      #dockerfile: Dockerfile
+      #args:
+      #  - JAR_FILE=target/*.jar
+    image: spring-boot-hello-world:v1.0.0
+    container_name: spring-boot-hello-world
+    ports:
+      - 8888:8080
