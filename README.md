@@ -24,7 +24,7 @@ curl http://localhost:8080
 
 ```
 mvn clean install
-java -jar target/spring-boot-hello-world-1.0.2-SNAPSHOT.jar
+java -jar target/spring-boot-hello-world-1.0.2.jar
 ```
 直接生成jar包，并跳过单元测试
 
