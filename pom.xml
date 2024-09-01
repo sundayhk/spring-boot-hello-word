@@ -11,7 +11,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>spring-boot-hello-world</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
 
     <name>spring-boot-hello-world</name>
     <description>A simple Spring Boot 2.x Web Hello World</description>
